@@ -1,7 +1,4 @@
-```{r}
-options(width = 60)
-matrix(runif(100), ncol = 20)
-```
+
 
 ## Weizhu QIAN
 
@@ -9,8 +6,8 @@ matrix(runif(100), ncol = 20)
 Deep Learning, Data Science, Approximate Inference. 
 
 
-### Work Experience:
-Postdoctoral researcher, Aalborg Univiersity (Denmark), 4/2021 -- current.
+### Work Experience
+Postdoctoral researcher, Aalborg Univiersity (Denmark), 4/2021 -- current
 
 
 ### Education
