@@ -1,3 +1,8 @@
+```{r}
+options(width = 60)
+matrix(runif(100), ncol = 20)
+```
+
 ## Weizhu QIAN
 
 ### Research Interests
