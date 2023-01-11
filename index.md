@@ -2,6 +2,8 @@
 
 <img src="photo.jpeg" alt="drawing" align="center" width="200"/>
 
+html`<style>p { max-width: none; }</style>`
+
 ### Research Interests
 Deep Learning, Data Science, Approximate Inference, Time Series Forecasting. 
 
