@@ -21,7 +21,7 @@ BS in Mechanics, Northwestern Polytechnical University (China), 9/2010 -- 7/2014
 ### Selected Publications:
 Weizhu Qian, Dalin Zhang, Yan Zhao, Kai Zheng, James J.Q. Yu. Uncertainty Quantification
 for Traffic Forecasting: A Unified Approach (39th IEEE International Conference on
-Data Engineering, ICDE 2023, accepted, arXiv:2208.05875).<br>
+Data Engineering, ICDE 2023, arXiv:2208.05875).<br>
 
 Weizhu Qian, Fabrice Lauri, Franck Gechter. Supervised and Semi-supervised Deep
 Probabilistic Models for Indoor Positioning Problems. (Neurocomputing 2021, 435, 228-238).<br>
