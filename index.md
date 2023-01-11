@@ -28,4 +28,3 @@ Probabilistic Models for Indoor Positioning Problems. (Neurocomputing 2021, 435,
 
 ### Reviewer:
 KDD 2022, CIKM 2022, ICDE 2023.  
-![image](https://user-images.githubusercontent.com/36293978/211821558-0cfdcc19-f790-41f6-bfce-4163162da146.png)
