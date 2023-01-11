@@ -5,7 +5,7 @@
 <img src="photo.jpeg" alt="drawing" align="center" width="200"/>
 
 ### Research Interests
-Deep Learning, Data Science, Approximate Inference. 
+Deep Learning, Data Science, Approximate Inference, Time Series Forecasting. 
 
 
 ### Work Experience
