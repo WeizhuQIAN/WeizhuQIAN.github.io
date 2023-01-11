@@ -2,6 +2,8 @@
 
 ## Weizhu QIAN
 
+![alt text](photo.jpeg "Title")
+
 ### Research Interests
 Deep Learning, Data Science, Approximate Inference. 
 
