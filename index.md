@@ -26,7 +26,12 @@ Data Engineering, ICDE 2023, accepted, arXiv:2208.05875).<br>
 Weizhu Qian, Fabrice Lauri, Franck Gechter. Supervised and Semi-supervised Deep
 Probabilistic Models for Indoor Positioning Problems. (Neurocomputing 2021, 435, 228-238).<br>
 
+Weizhu Qian, Franck Gechter. Variational Information Bottleneck Model for Accurate
+Indoor Position Recognition (25th International Conference on Pattern Recognition, ICPR
+2020). 
 
+Weizhu Qian, Bowei Chen, Franck Gechter. Multi-Task Variational Information
+Bottleneck (arXiv preprint arXiv:2007.00339)
 
 ### Reviewer:
 KDD 2022, CIKM 2022, ICDE 2023.  
