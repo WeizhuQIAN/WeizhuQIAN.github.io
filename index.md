@@ -1,6 +1,6 @@
 ## Weizhu QIAN
 
-<img src="photo.jpeg" alt="drawing" align="center" width="200"/>
+<img src="photo.jpeg" alt="drawing" align="center" width="100"/>
 
 html`<style>p { max-width: none; }</style>`
 
