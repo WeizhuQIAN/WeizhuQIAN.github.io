@@ -1,7 +1,7 @@
 ## Weizhu QIAN
 
 
-%<img src="photo.jpeg" alt="drawing" align="center" width="160"/>
+<! <img src="photo.jpeg" alt="drawing" align="center" width="160"/>->
   
 
 ### Research Interests
