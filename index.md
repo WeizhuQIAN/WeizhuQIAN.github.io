@@ -9,7 +9,7 @@ Deep Learning, Data Science, Approximate Inference, Time Series Forecasting.
 
 
 ### Work Experience
-Postdoctoral researcher, Aalborg Univiersity (Denmark), 4/2021 -- current
+Postdoctoral researcher, Aalborg Univiersity (Denmark), 04/2021 -- current
 
 
 ### Education
