@@ -5,11 +5,12 @@
   
 
 ### Research Interests
-Deep Learning, Data Science, Approximate Inference, Time Series Forecasting. 
+Deep Learning, Data Science, Probabilistic Inference, Time Series Forecasting. 
 
 
 ### Work Experience
-Postdoctoral researcher, Aalborg Univiersity (Denmark), 04/2021 -- current
+Assistant Professor, Soochow Univiersity (China), 08/2023 -- current
+Postdoctoral researcher, Aalborg Univiersity (Denmark), 04/2021 -- 04/2023
 
 
 ### Education
@@ -19,6 +20,9 @@ BS in Mechanics, Northwestern Polytechnical University (China), 9/2010 -- 7/2014
 
 
 ### Selected Publications:
+
+Qian, W., Zhao, Y., Zhang, D., Chen, B., Zheng, K., & Zhou, X. (2023). Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting. IEEE Transactions on Knowledge and Data Engineering. <br>
+
 Weizhu Qian, Dalin Zhang, Yan Zhao, Kai Zheng, James J.Q. Yu. Uncertainty Quantification
 for Traffic Forecasting: A Unified Approach (39th IEEE International Conference on
 Data Engineering, ICDE 2023, arXiv:2208.05875).<br>
