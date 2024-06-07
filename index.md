@@ -19,9 +19,9 @@ MS in Automation, University of Chinese Academy of Sciences (China), 9/2014 -- 1
 BS in Mechanics, Northwestern Polytechnical University (China), 9/2010 -- 7/2014 <br>
 
 ### Languages
-English advanced <br>
-French intermediate <br>
-Chinese native <br>
+English: advanced <br>
+French: intermediate <br>
+Chinese: native <br>
 
 ### Selected Publications
 
