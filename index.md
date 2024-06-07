@@ -37,6 +37,6 @@ Indoor Position Recognition (25th International Conference on Pattern Recognitio
 Weizhu Qian, Bowei Chen, Franck Gechter. Multi-Task Variational Information
 Bottleneck (arXiv preprint arXiv:2007.00339)
 
-### Reviewer:
+### Reviewer
 Neurips 2024, AAAI 2023, KDD 2022, CIKM 2022/2023/2024, ICDE 2023.  
 
