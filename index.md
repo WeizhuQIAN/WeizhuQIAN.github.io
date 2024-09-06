@@ -5,7 +5,7 @@
   
 
 ### Research Interests
-Deep Learning, Probabilistic Inference, Time Series Analysis. 
+Deep Learning, Probabilistic Inference, Generative Models, Time Series Analysis. 
 
 
 ### Work Experience
@@ -18,12 +18,14 @@ PhD in Computer Science, University Bourgogne Franche-Comté (France), 10/2017 -
 MS in Automation, University of Chinese Academy of Sciences (China), 9/2014 -- 1/2017 <br>
 BS in Mechanics, Northwestern Polytechnical University (China), 9/2010 -- 7/2014 <br>
 
+
 ### Languages
 English: advanced <br>
 French: intermediate <br>
 Chinese: native <br>
 
-### Selected Publications
+
+### Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=jRbawDIAAAAJ&hl=en))
 
 Qian, W., Zhao, Y., Zhang, D., Chen, B., Zheng, K., & Zhou, X. (2023). Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting. IEEE Transactions on Knowledge and Data Engineering. <br>
 
@@ -42,5 +44,10 @@ Weizhu Qian, Bowei Chen, Franck Gechter. Multi-Task Variational Information
 Bottleneck (arXiv preprint arXiv:2007.00339)
 
 ### Reviewer
-Neurips 2024, AAAI 2023, KDD 2022, CIKM 2022/2023/2024, ICDE 2023.  
+Neurips 2024, CIKM 2022/2023/2024, TKDE, Big Data, AAAI 2023, KDD 2022, ICDE 2023.  
+
+
+### Teaching
+Machine Learning <br>
+Data Science 
 
