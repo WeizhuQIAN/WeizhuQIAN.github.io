@@ -27,11 +27,14 @@ Chinese: native <br>
 
 ### Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=jRbawDIAAAAJ&hl=en))
 
-Qian, W., Zhao, Y., Zhang, D., Chen, B., Zheng, K., & Zhou, X. (2023). Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting. IEEE Transactions on Knowledge and Data Engineering. <br>
+Qian, W., Zhao, Y., Zhang, D., Chen, B., Zheng, K., & Zhou, X. (2023). Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting. (IEEE Transactions on Knowledge and Data Engineering, TKDE 2023.) <br>
 
 Weizhu Qian, Dalin Zhang, Yan Zhao, Kai Zheng, James J.Q. Yu. Uncertainty Quantification
 for Traffic Forecasting: A Unified Approach (39th IEEE International Conference on
-Data Engineering, ICDE 2023, arXiv:2208.05875).<br>
+Data Engineering, ICDE 2023).<br>
+
+W Qian, TD Nielsen, Y Zhao, KG Larsen, JJ Yu; Uncertainty-Aware Temporal Graph Convolutional Network for Traffic Speed Forecasting
+(IEEE Transactions on Intelligent Transportation Systems, TITS 2024).<br>
 
 Weizhu Qian, Fabrice Lauri, Franck Gechter. Supervised and Semi-supervised Deep
 Probabilistic Models for Indoor Positioning Problems. (Neurocomputing 2021, 435, 228-238).<br>
