@@ -14,9 +14,9 @@ Postdoctoral researcher, Aalborg Univiersity (Denmark),  &emsp; 04/2021 -- 04/20
 
 
 ### Education
-PhD in Computer Science, University Bourgogne Franche-Comté (France),   &emsp;  &nsp; 10/2017 -- 02/2022 <br>
+PhD in Computer Science, University Bourgogne Franche-Comté (France),   &emsp;  &nbsp; 10/2017 -- 02/2022 <br>
 MS in Automation, University of Chinese Academy of Sciences (China),  &emsp;  &emsp; &nbsp; 09/2014 -- 01/2017 <br>
-BS in Mechanics, Northwestern Polytechnical University (China),     &emsp; &emsp; &emsp;  &emsp; 09/2010 -- 07/2014 <br>
+BS in Mechanics, Northwestern Polytechnical University (China),     &emsp; &emsp; &emsp; &emsp; &emsp; 09/2010 -- 07/2014 <br>
 
 
 ### Languages
