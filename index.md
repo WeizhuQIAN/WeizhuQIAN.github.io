@@ -1,4 +1,4 @@
-## Weizhu QIAN
+## Weizhu QIAN ([Google Scholar](https://scholar.google.com/citations?user=jRbawDIAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/weizhu-qian-49a011192/))
 
 
 <!-- <img src="photo.jpeg" alt="drawing" align="center" width="160"/>-->
@@ -25,7 +25,7 @@ French: intermediate <br>
 Chinese: native <br>
 
 
-### Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=jRbawDIAAAAJ&hl=en))
+### Selected Publications 
 
 Qian, W., Zhao, Y., Zhang, D., Chen, B., Zheng, K., & Zhou, X. (2023). Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting. (IEEE Transactions on Knowledge and Data Engineering, TKDE 2023.) <br>
 
