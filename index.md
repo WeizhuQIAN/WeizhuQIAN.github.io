@@ -9,7 +9,7 @@ Deep Learning, Probabilistic Inference, Generative Models, Time Series Analysis.
 
 
 ### Work Experience
-Assistant Professor, Soochow Univiersity (China),        &emsp; 08/2023 -- current <br>
+Assistant Professor, Soochow Univiersity (China), &emsp; &emsp; 08/2023 -- current <br>
 Postdoctoral researcher, Aalborg Univiersity (Denmark),  &nbsp; 04/2021 -- 04/2023<br>
 
 
