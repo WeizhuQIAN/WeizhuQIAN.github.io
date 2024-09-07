@@ -44,7 +44,7 @@ Weizhu Qian, Bowei Chen, Franck Gechter. Multi-Task Variational Information
 Bottleneck (arXiv preprint arXiv:2007.00339)
 
 ### Reviewer
-Neurips 2024, CIKM 2022/2023/2024, TKDE, Big Data, AAAI 2023, KDD 2022, ICDE 2023.  
+Neurips 2024, CIKM 2022/2023/2024, TKDE 2024, Big Data 2024, AAAI 2023, ICDE 2023, KDD 2022.  
 
 
 ### Teaching
