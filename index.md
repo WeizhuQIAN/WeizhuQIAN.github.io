@@ -10,13 +10,13 @@ Deep Learning, Probabilistic Inference, Generative Models, Time Series Analysis.
 
 ### Work Experience
 Assistant Professor, Soochow Univiersity (China), 08/2023 -- current <br>
-Postdoctoral researcher, Aalborg Univiersity (Denmark), 04/2021 -- 04/2023
+Postdoctoral researcher, Aalborg Univiersity (Denmark), 04/2021 -- 04/2023<br>
 
 
 ### Education
-PhD in Computer Science, University Bourgogne Franche-Comté (France),10/2017 -- 2/2022 <br>
-MS in Automation, University of Chinese Academy of Sciences (China),9/2014 -- 1/2017 <br>
-BS in Mechanics, Northwestern Polytechnical University (China),9/2010 -- 7/2014 <br>
+PhD in Computer Science, University Bourgogne Franche-Comté (France), 10/2017 -- 2/2022 <br>
+MS in Automation, University of Chinese Academy of Sciences (China), 9/2014 -- 1/2017 <br>
+BS in Mechanics, Northwestern Polytechnical University (China), 9/2010 -- 7/2014 <br>
 
 
 ### Languages
